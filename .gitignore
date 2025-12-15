@@ -1,1 +1,7 @@
+
 ma_tokten.txt
+__pycache__/
+*.pyc
+*.swp
+.venv/  
+.streamlit/cache/
